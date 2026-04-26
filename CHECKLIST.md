@@ -4,16 +4,16 @@
 > **Status:** 🏗️ Całkowity Redesign UI (Phase 2.0)
 
 ## 🎨 NOWY INTERFEJS (Phonic Carbon UI)
-- [ ] **Trójpanelowy Layout Pro** — zintegrowany Browser, Biblioteka i Inspector.
-- [ ] **Technical Glassmorphism** — półprzezroczyste elementy z rozmyciem tła.
-- [ ] **Micro-animations** — płynne przejścia stanów utworów przy użyciu `motion`.
+- [x] **Trójpanelowy Layout Pro** — zintegrowany Browser, Biblioteka i Inspector.
+- [x] **Technical Glassmorphism** — półprzezroczyste elementy z rozmyciem tła.
+- [x] **Micro-animations** — płynne przejścia stanów utworów przy użyciu `motion`.
 - [ ] **Advanced Data Grid** — wysokowydajna lista utworów z wirtualizacją.
 - [ ] **Visual Waveform Canvas** — generowanie podglądu ścieżki w czasie rzeczywistym.
 - [ ] **Command Palette (⌘+K)** — szybkie nawigowanie i wywoływanie funkcji AI.
 
 ## 📊 KLUCZOWE CELE (Z analizy dokumentacji)
-- [ ] Podstawowa struktura projektu (Next.js 15+ / React 19).
-- [ ] Library Browser (nowoczesny widok tabelaryczny).
+- [x] Podstawowa struktura projektu (Next.js 15+ / React 19).
+- [x] Library Browser (nowoczesny widok tabelaryczny / grid).
 - [ ] Import Wizard (nowy modal z wizualizacją postępu).
 - [ ] Detekcja duplikatów (zaawansowany silnik podobieństwa).
 - [ ] Obsługa formatów: MP3, FLAC, WAV, M4A, AAC, AIFF, OGG, ALAC, WMA.

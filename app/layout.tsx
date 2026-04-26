@@ -23,8 +23,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="pl" className={`${inter.variable} ${jetbrainsMono.variable} dark`}>
-      <body className="bg-zinc-950 text-zinc-100 antialiased selection:bg-cyan-500/30 overflow-hidden" suppressHydrationWarning>
+    <html lang="pl" className={`${inter.variable} ${jetbrainsMono.variable} dark`} suppressHydrationWarning>
+      <body className="bg-zinc-950 text-zinc-100 antialiased selection:bg-cyan-500/30 overflow-hidden">
         {children}
       </body>
     </html>
